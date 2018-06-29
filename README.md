@@ -1,1 +1,3 @@
-# NIKO-Ubuntu1604
+# NIKO Binaries
+
+Ubuntu 16.04
